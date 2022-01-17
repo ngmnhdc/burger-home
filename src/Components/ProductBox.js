@@ -1,4 +1,5 @@
 import React from 'react'
+import '../Styles/ProductBox.css'
 
 function ProductBox(props) {
     return (

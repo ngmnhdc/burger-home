@@ -2,6 +2,7 @@ import React from 'react'
 import ProductBox from './ProductBox'
 import image1 from '../images/s1.png'
 import image2 from '../images/s2.png'
+import '../Styles/Product.css'
 
 function Products() {
     return (

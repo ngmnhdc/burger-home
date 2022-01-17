@@ -1,0 +1,66 @@
+#contact {
+  padding-bottom: 100px;
+  background-image: url(../images/footer.png);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#contact h1 {
+  font-size: 3.5rem;
+  color: #3d2514;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Alfa Slab One";
+  margin-bottom: 80px;
+}
+#contact form {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+#contact input,
+#contact textarea {
+  width: 100%;
+  height: 50px;
+  margin: 5px 0px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  background-color: #dfdfdf;
+  color: #ffffff;
+  border-radius: 5px;
+}
+#contact textarea {
+  height: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#contact input[type=submit] {
+  margin-top: 20px;
+  height: 50px;
+  width: 30%;
+  background: linear-gradient(90deg, #bf2222 20%, #bf2222);
+  color: #ffffff;
+  text-transform: uppercase;
+  box-shadow: 5px 10px 30px rgba(255, 103, 2, 0.336);
+}
+#contact input[type=submit]:hover {
+  background: #ffffff;
+  transition: all ease 0.5s;
+  color: #bf2222;
+  border: 2px solid #bf2222;
+  cursor: pointer;
+}
+
+@media (max-width: 620px) {
+  #contact form {
+    width: 90%;
+  }
+}
+
+/*# sourceMappingURL=Contact.css.map */

@@ -1,4 +1,5 @@
 import React from 'react'
+import '../Styles/Contact.css'
 
 function Contact() {
     function handleSubmit(e) {
