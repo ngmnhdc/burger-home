@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/burger-landing-page/static/css/main.28ac732d.css",
-    "main.js": "/burger-landing-page/static/js/main.592e3fb2.js",
+    "main.css": "/burger-landing-page/static/css/main.48a32b4c.css",
+    "main.js": "/burger-landing-page/static/js/main.2aad1183.js",
     "static/media/about.png": "/burger-landing-page/static/media/about.5cfaf8a99d5231051570.png",
     "static/media/banner.png": "/burger-landing-page/static/media/banner.96379e374d05c70e7b3d.png",
     "static/media/footer.png": "/burger-landing-page/static/media/footer.53806b7daa8d1ecfff9d.png",
     "static/media/s1.png": "/burger-landing-page/static/media/s1.8a4fa4559949141455f1.png",
     "static/media/s2.png": "/burger-landing-page/static/media/s2.b0665d1810c1ae19dfa3.png",
     "index.html": "/burger-landing-page/index.html",
-    "main.28ac732d.css.map": "/burger-landing-page/static/css/main.28ac732d.css.map",
-    "main.592e3fb2.js.map": "/burger-landing-page/static/js/main.592e3fb2.js.map"
+    "main.48a32b4c.css.map": "/burger-landing-page/static/css/main.48a32b4c.css.map",
+    "main.2aad1183.js.map": "/burger-landing-page/static/js/main.2aad1183.js.map"
   },
   "entrypoints": [
-    "static/css/main.28ac732d.css",
-    "static/js/main.592e3fb2.js"
+    "static/css/main.48a32b4c.css",
+    "static/js/main.2aad1183.js"
   ]
 }
