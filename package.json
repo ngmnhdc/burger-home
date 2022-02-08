@@ -1,6 +1,6 @@
 {
-    "homepage": "https://ngmnhdc.github.io/burger-landing-page/",
-    "name": "burger-landing-page",
+    "homepage": "https://ngmnhdc.github.io/burger-home/",
+    "name": "burger-home",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
